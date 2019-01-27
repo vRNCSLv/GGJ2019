@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 6d77294aa5a45e040ab9ac582d276f42
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Paguro_A1_antenna01_d_jnt
+    100004: Paguro_A1_antenna01_s_jnt
+    100006: Paguro_A1_antenna02_d_jnt
+    100008: Paguro_A1_antenna02_s_jnt
+    100010: Paguro_A1_antenna03_d_jnt
+    100012: Paguro_A1_antenna03_s_jnt
+    100014: Paguro_A1_antenna04_d_jnt
+    100016: Paguro_A1_antenna04_s_jnt
+    100018: Paguro_A1_antenna05_d_jnt
+    100020: Paguro_A1_antenna05_s_jnt
+    100022: Paguro_A2_antenna01_d_jnt
+    100024: Paguro_A2_antenna01_s_jnt
+    100026: Paguro_A2_antenna02_d_jnt
+    100028: Paguro_A2_antenna02_s_jnt
+    100030: Paguro_A2_antenna03_d_jnt
+    100032: Paguro_A2_antenna03_s_jnt
+    100034: Paguro_A2_antenna04_d_jnt
+    100036: Paguro_A2_antenna04_s_jnt
+    100038: Paguro_braccio01_d_jnt
+    100040: Paguro_braccio01_s_jnt
+    100042: Paguro_braccio02_d_jnt
+    100044: Paguro_braccio02_s_jnt
+    100046: Paguro_braccio03_d_jnt
+    100048: Paguro_braccio03_s_jnt
+    100050: Paguro_braccio04_d_jnt
+    100052: Paguro_braccio04_s_jnt
+    100054: Paguro_busto_c_jnt
+    100056: Paguro_coda01_c_jnt
+    100058: Paguro_coda02_c_jnt
+    100060: Paguro_COG_c_jnt
+    100062: Paguro_colla_c_jnt
+    100064: Paguro_occhio01_d_jnt
+    100066: Paguro_occhio01_s_jnt
+    100068: Paguro_occhio02_d_jnt
+    100070: Paguro_occhio02_s_jnt
+    100072: Paguro_occhio03_d_jnt
+    100074: Paguro_occhio03_s_jnt
+    100076: Paguro_testa_c_jnt
+    100078: Paguro_Z1_zampa01_d_jnt
+    100080: Paguro_Z1_zampa01_s_jnt
+    100082: Paguro_Z1_zampa02_d_jnt
+    100084: Paguro_Z1_zampa02_s_jnt
+    100086: Paguro_Z1_zampa03_d_jnt
+    100088: Paguro_Z1_zampa03_s_jnt
+    100090: Paguro_Z1_zampa04_d_jnt
+    100092: Paguro_Z1_zampa04_s_jnt
+    100094: Paguro_Z2_zampa01_d_jnt
+    100096: Paguro_Z2_zampa01_s_jnt
+    100098: Paguro_Z2_zampa02_d_jnt
+    100100: Paguro_Z2_zampa02_s_jnt
+    100102: Paguro_Z2_zampa03_d_jnt
+    100104: Paguro_Z2_zampa03_s_jnt
+    100106: Paguro_Z2_zampa04_d_jnt
+    100108: Paguro_Z2_zampa04_s_jnt
+    100110: polySurface4
+    400000: //RootNode
+    400002: Paguro_A1_antenna01_d_jnt
+    400004: Paguro_A1_antenna01_s_jnt
+    400006: Paguro_A1_antenna02_d_jnt
+    400008: Paguro_A1_antenna02_s_jnt
+    400010: Paguro_A1_antenna03_d_jnt
+    400012: Paguro_A1_antenna03_s_jnt
+    400014: Paguro_A1_antenna04_d_jnt
+    400016: Paguro_A1_antenna04_s_jnt
+    400018: Paguro_A1_antenna05_d_jnt
+    400020: Paguro_A1_antenna05_s_jnt
+    400022: Paguro_A2_antenna01_d_jnt
+    400024: Paguro_A2_antenna01_s_jnt
+    400026: Paguro_A2_antenna02_d_jnt
+    400028: Paguro_A2_antenna02_s_jnt
+    400030: Paguro_A2_antenna03_d_jnt
+    400032: Paguro_A2_antenna03_s_jnt
+    400034: Paguro_A2_antenna04_d_jnt
+    400036: Paguro_A2_antenna04_s_jnt
+    400038: Paguro_braccio01_d_jnt
+    400040: Paguro_braccio01_s_jnt
+    400042: Paguro_braccio02_d_jnt
+    400044: Paguro_braccio02_s_jnt
+    400046: Paguro_braccio03_d_jnt
+    400048: Paguro_braccio03_s_jnt
+    400050: Paguro_braccio04_d_jnt
+    400052: Paguro_braccio04_s_jnt
+    400054: Paguro_busto_c_jnt
+    400056: Paguro_coda01_c_jnt
+    400058: Paguro_coda02_c_jnt
+    400060: Paguro_COG_c_jnt
+    400062: Paguro_colla_c_jnt
+    400064: Paguro_occhio01_d_jnt
+    400066: Paguro_occhio01_s_jnt
+    400068: Paguro_occhio02_d_jnt
+    400070: Paguro_occhio02_s_jnt
+    400072: Paguro_occhio03_d_jnt
+    400074: Paguro_occhio03_s_jnt
+    400076: Paguro_testa_c_jnt
+    400078: Paguro_Z1_zampa01_d_jnt
+    400080: Paguro_Z1_zampa01_s_jnt
+    400082: Paguro_Z1_zampa02_d_jnt
+    400084: Paguro_Z1_zampa02_s_jnt
+    400086: Paguro_Z1_zampa03_d_jnt
+    400088: Paguro_Z1_zampa03_s_jnt
+    400090: Paguro_Z1_zampa04_d_jnt
+    400092: Paguro_Z1_zampa04_s_jnt
+    400094: Paguro_Z2_zampa01_d_jnt
+    400096: Paguro_Z2_zampa01_s_jnt
+    400098: Paguro_Z2_zampa02_d_jnt
+    400100: Paguro_Z2_zampa02_s_jnt
+    400102: Paguro_Z2_zampa03_d_jnt
+    400104: Paguro_Z2_zampa03_s_jnt
+    400106: Paguro_Z2_zampa04_d_jnt
+    400108: Paguro_Z2_zampa04_s_jnt
+    400110: polySurface4
+    2100000: lambert2
+    4300000: polySurface4
+    9500000: //RootNode
+    13700000: polySurface4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 02dc1e456277a5f43a267c46402e8819, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2053 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5295419902812547120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452304}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa02_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547120}
+  m_LocalRotation: {x: 0.0768976, y: -0.14836006, z: -0.4067602, w: 0.8981215}
+  m_LocalPosition: {x: -0.08808174, y: 2.7755574e-18, z: -8.881784e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452316}
+  m_Father: {fileID: 5295419902812452308}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -32.214966, y: 18.82558, z: -8.486173}
+--- !u!1 &5295419902812547122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452306}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa03_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547122}
+  m_LocalRotation: {x: 0.23872925, y: 0.8542507, z: -0.40047294, w: -0.2299687}
+  m_LocalPosition: {x: 0.105290115, y: -0.000000049113908, z: -0.0000006097356}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452318}
+  m_Father: {fileID: 5295419902812452310}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -63.734245, y: -96.54184, z: 108.18295}
+--- !u!1 &5295419902812547124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452308}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa01_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547124}
+  m_LocalRotation: {x: 0.029328424, y: 0.37237063, z: 0.06163994, w: 0.92557037}
+  m_LocalPosition: {x: -0.0859265, y: 0.012253501, z: 0.062657}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452304}
+  m_Father: {fileID: 5295419902812452232}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 29.554913, y: 3.356474, z: 71.01418}
+--- !u!1 &5295419902812547126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452310}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa02_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452310
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547126}
+  m_LocalRotation: {x: 0.15533297, y: -0.12661858, z: -0.47433585, w: 0.85723096}
+  m_LocalPosition: {x: 0.088081874, y: 0.0000000053310205, z: 0.0000006893533}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452306}
+  m_Father: {fileID: 5295419902812452330}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 3.5898848, y: 5.820361, z: -4.7629433}
+--- !u!1 &5295419902812547128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452312}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa04_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547128}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.37259382, y: 5.551115e-19, z: -3.5527136e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452316}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452314}
+  - component: {fileID: 5295419902809367700}
+  m_Layer: 0
+  m_Name: RIGWip12:polySurface4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452314
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547130}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452276}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5295419902809367700
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547130}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 129d66d52e495394fa8e102cfabbcc0c, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: bc81859f921b47848871475288638444, type: 3}
+  m_Bones:
+  - {fileID: 5295419902812452232}
+  - {fileID: 5295419902812452236}
+  - {fileID: 5295419902812452238}
+  - {fileID: 5295419902812452226}
+  - {fileID: 5295419902812452234}
+  - {fileID: 5295419902812452344}
+  - {fileID: 5295419902812452268}
+  - {fileID: 5295419902812452264}
+  - {fileID: 5295419902812452244}
+  - {fileID: 5295419902812452240}
+  - {fileID: 5295419902812452272}
+  - {fileID: 5295419902812452284}
+  - {fileID: 5295419902812452280}
+  - {fileID: 5295419902812452260}
+  - {fileID: 5295419902812452256}
+  - {fileID: 5295419902812452342}
+  - {fileID: 5295419902812452338}
+  - {fileID: 5295419902812452350}
+  - {fileID: 5295419902812452258}
+  - {fileID: 5295419902812452270}
+  - {fileID: 5295419902812452266}
+  - {fileID: 5295419902812452246}
+  - {fileID: 5295419902812452340}
+  - {fileID: 5295419902812452336}
+  - {fileID: 5295419902812452348}
+  - {fileID: 5295419902812452278}
+  - {fileID: 5295419902812452274}
+  - {fileID: 5295419902812452286}
+  - {fileID: 5295419902812452282}
+  - {fileID: 5295419902812452262}
+  - {fileID: 5295419902812452324}
+  - {fileID: 5295419902812452320}
+  - {fileID: 5295419902812452332}
+  - {fileID: 5295419902812452328}
+  - {fileID: 5295419902812452346}
+  - {fileID: 5295419902812452326}
+  - {fileID: 5295419902812452322}
+  - {fileID: 5295419902812452334}
+  - {fileID: 5295419902812452252}
+  - {fileID: 5295419902812452248}
+  - {fileID: 5295419902812452228}
+  - {fileID: 5295419902812452224}
+  - {fileID: 5295419902812452242}
+  - {fileID: 5295419902812452254}
+  - {fileID: 5295419902812452250}
+  - {fileID: 5295419902812452230}
+  - {fileID: 5295419902812452308}
+  - {fileID: 5295419902812452304}
+  - {fileID: 5295419902812452316}
+  - {fileID: 5295419902812452312}
+  - {fileID: 5295419902812452330}
+  - {fileID: 5295419902812452310}
+  - {fileID: 5295419902812452306}
+  - {fileID: 5295419902812452318}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5295419902812452232}
+  m_AABB:
+    m_Center: {x: -0.011355758, y: 0.034104645, z: 0.12943864}
+    m_Extent: {x: 0.4281248, y: 0.3036706, z: 0.446334}
+  m_DirtyAABB: 0
+--- !u!1 &5295419902812547132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452316}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa03_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547132}
+  m_LocalRotation: {x: 0.24948442, y: 0.8543281, z: -0.25372007, w: -0.37882343}
+  m_LocalPosition: {x: -0.10529046, y: -1.1518564e-17, z: -2.6645352e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452312}
+  m_Father: {fileID: 5295419902812452304}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -40.117935, y: -85.49428, z: 79.02668}
+--- !u!1 &5295419902812547134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452318}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa04_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547134}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.37259388, y: 0.000000003765926, z: -0.000000004979062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452306}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547456
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452256}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna05_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452256
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547456}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.07162938, y: -1.7503589e-14, z: 1.6241994e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452260}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452258}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna01_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452258
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547458}
+  m_LocalRotation: {x: 0.64362603, y: -0.17438093, z: 0.7244822, w: -0.17453495}
+  m_LocalPosition: {x: 0.017432999, y: -0.018861597, z: 0.036075294}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452270}
+  m_Father: {fileID: 5295419902812452344}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.75390524, y: 87.28101, z: -154.69757}
+--- !u!1 &5295419902812547460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452260}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna04_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547460}
+  m_LocalRotation: {x: -0.000016203567, y: 0.056685723, z: -0.16619627, w: 0.984462}
+  m_LocalPosition: {x: -0.071629375, y: -5.583049e-15, z: 5.176972e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452256}
+  m_Father: {fileID: 5295419902812452280}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 13.135972, y: -11.437513, z: 6.9052467}
+--- !u!1 &5295419902812547462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452262}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna05_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452262
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547462}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.07163001, y: -0.00000003649398, z: 0.0000000029023457}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452282}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452264}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna02_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547464}
+  m_LocalRotation: {x: -0.000012765956, y: -0.27057886, z: 0.06091363, w: 0.96076876}
+  m_LocalPosition: {x: -0.025985593, y: -1.42681e-18, z: -4.6794166e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452244}
+  m_Father: {fileID: 5295419902812452268}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -5.2700005, y: -12.090845, z: 27.562836}
+--- !u!1 &5295419902812547466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452266}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna03_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547466}
+  m_LocalRotation: {x: 0.0003370622, y: -0.48080623, z: -0.09394169, w: 0.8717799}
+  m_LocalPosition: {x: 0.025986137, y: -0.0000000039709596, z: -0.000000015312493}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452246}
+  m_Father: {fileID: 5295419902812452270}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 6.5059123, y: -0.17031193, z: 7.4132175}
+--- !u!1 &5295419902812547468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452268}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna01_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547468}
+  m_LocalRotation: {x: -0.000055340566, y: 0.81428826, z: -0.000075212825, w: 0.58046067}
+  m_LocalPosition: {x: -0.017497001, y: -0.0188616, z: 0.03607479}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452264}
+  m_Father: {fileID: 5295419902812452344}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -1.1472453, y: 87.976524, z: 0.9728347}
+--- !u!1 &5295419902812547470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452270}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna02_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547470}
+  m_LocalRotation: {x: -0.000040823623, y: 0.1896813, z: -0.017981555, w: 0.98168105}
+  m_LocalPosition: {x: 0.02598501, y: 0.000000010644546, z: -0.000000030355455}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452266}
+  m_Father: {fileID: 5295419902812452258}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.034371465, y: 7.0859704, z: 13.234858}
+--- !u!1 &5295419902812547472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452272}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna01_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547472}
+  m_LocalRotation: {x: -0.062448446, y: 0.64826316, z: -0.062448632, w: 0.75627726}
+  m_LocalPosition: {x: -0.028138999, y: -0.019030597, z: 0.034919284}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452284}
+  m_Father: {fileID: 5295419902812452344}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.8201906, y: 81.45278, z: 13.056591}
+--- !u!1 &5295419902812547474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452274}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna02_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547474}
+  m_LocalRotation: {x: -0.000005298552, y: -0.07108151, z: -0.19707422, w: 0.97780836}
+  m_LocalPosition: {x: 0.071628995, y: -0.000000001876457, z: -0.000000014406906}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452286}
+  m_Father: {fileID: 5295419902812452278}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.3121951, y: -10.260652, z: 25.873383}
+--- !u!1 &5295419902812547476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452276}
+  - component: {fileID: 5295419902801490004}
+  - component: {fileID: 2447224480286732399}
+  m_Layer: 0
+  m_Name: Paguro
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452276
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.22, z: 0}
+  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_Children:
+  - {fileID: 5295419902812452232}
+  - {fileID: 5295419902812452314}
+  m_Father: {fileID: 8631946479698095273}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &5295419902801490004
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547476}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: bc81859f921b47848871475288638444, type: 3}
+  m_Animations:
+  - {fileID: 7400000, guid: bc81859f921b47848871475288638444, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 1
+--- !u!95 &2447224480286732399
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547476}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a4c2e7949354684499f6848884f4719a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &5295419902812547478
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452278}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna01_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547478}
+  m_LocalRotation: {x: 0.7409768, y: -0.04588424, z: 0.6683884, w: -0.045879874}
+  m_LocalPosition: {x: 0.028075, y: -0.019030597, z: 0.03491929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452274}
+  m_Father: {fileID: 5295419902812452344}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.75530714, y: 100.39318, z: -157.9659}
+--- !u!1 &5295419902812547480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452280}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna03_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547480}
+  m_LocalRotation: {x: -0.000014948825, y: 0.17826012, z: 0.011864776, w: 0.9839119}
+  m_LocalPosition: {x: -0.071629405, y: -4.0624425e-14, z: 3.7655693e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452260}
+  m_Father: {fileID: 5295419902812452284}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 4.6857576, y: 2.0261407, z: 5.064357}
+--- !u!1 &5295419902812547482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452282}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna04_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547482}
+  m_LocalRotation: {x: 0.000009901146, y: 0.15766698, z: 0.30765995, w: 0.93834245}
+  m_LocalPosition: {x: 0.071629, y: 0.00000006922377, z: -0.000000006474496}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452262}
+  m_Father: {fileID: 5295419902812452286}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 7.6766944, y: 10.747531, z: 5.1757574}
+--- !u!1 &5295419902812547484
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452284}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna02_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452284
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547484}
+  m_LocalRotation: {x: 0.0000069485072, y: 0.014529865, z: 0.17290719, w: 0.984831}
+  m_LocalPosition: {x: -0.07162937, y: 8.4491876e-18, z: 2.0583036e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452280}
+  m_Father: {fileID: 5295419902812452272}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.606818, y: 3.2248397, z: 29.183071}
+--- !u!1 &5295419902812547486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452286}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A1_antenna03_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547486}
+  m_LocalRotation: {x: -0.0000020198013, y: 0.14797784, z: 0.13649748, w: 0.9795259}
+  m_LocalPosition: {x: 0.07163, y: -0.000000032572643, z: 0.000000017994159}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452282}
+  m_Father: {fileID: 5295419902812452274}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 67.94594, y: 37.80564, z: 40.9793}
+--- !u!1 &5295419902812547520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452320}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa02_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452320
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547520}
+  m_LocalRotation: {x: 0.09412911, y: -0.16435999, z: -0.37152377, w: 0.90889806}
+  m_LocalPosition: {x: -0.17629775, y: 6.661338e-18, z: -1.7763568e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452332}
+  m_Father: {fileID: 5295419902812452324}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 18.717216, y: 4.5921764, z: -2.1843443}
+--- !u!1 &5295419902812547522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452322}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa03_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452322
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547522}
+  m_LocalRotation: {x: -0.58724254, y: -0.28015196, z: 0.64909035, w: 0.39413545}
+  m_LocalPosition: {x: 0.08108735, y: 3.686316e-10, z: 0.00000047425644}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452334}
+  m_Father: {fileID: 5295419902812452326}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -33.31807, y: -89.43783, z: 109.64774}
+--- !u!1 &5295419902812547524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452324}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa01_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452324
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547524}
+  m_LocalRotation: {x: -0.29125586, y: 0.7050625, z: -0.57506454, w: 0.29556334}
+  m_LocalPosition: {x: 0.04169227, y: 0.07634598, z: -0.025676668}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452320}
+  m_Father: {fileID: 5295419902812452226}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 37.641396, y: 100.89966, z: -40.00933}
+--- !u!1 &5295419902812547526
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452326}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa02_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547526}
+  m_LocalRotation: {x: 0.044690065, y: -0.07316207, z: -0.32323715, w: 0.9424266}
+  m_LocalPosition: {x: 0.17629807, y: 0.00000004075888, z: -0.00000038506215}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452322}
+  m_Father: {fileID: 5295419902812452346}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 21.43339, y: -16.178673, z: -16.724682}
+--- !u!1 &5295419902812547528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452328}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa04_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452328
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547528}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.2854473, y: -1.3322676e-17, z: -5.3290704e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452332}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452330}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z2_zampa01_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452330
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547530}
+  m_LocalRotation: {x: 0.921383, y: -0.061412595, z: 0.3644799, w: -0.120151214}
+  m_LocalPosition: {x: 0.0854955, y: 0.012253501, z: 0.062657}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452310}
+  m_Father: {fileID: 5295419902812452232}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -9.624685, y: 165.5066, z: -128.41371}
+--- !u!1 &5295419902812547532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452332}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa03_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547532}
+  m_LocalRotation: {x: 0.66853064, y: 0.40317354, z: -0.5588467, w: -0.27965733}
+  m_LocalPosition: {x: -0.081087515, y: 8.737585e-18, z: 3.5527136e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452328}
+  m_Father: {fileID: 5295419902812452320}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -29.387304, y: -85.01036, z: 109.8122}
+--- !u!1 &5295419902812547534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452334}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa04_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547534}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.2854469, y: -0.000000017166554, z: 0.00000031690155}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452322}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452336}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_occhio02_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452336
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547536}
+  m_LocalRotation: {x: 0.074643016, y: 0.16623041, z: -0.34293875, w: 0.9215145}
+  m_LocalPosition: {x: 0.01856163, y: -0.000000052385627, z: -0.00000042908638}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452348}
+  m_Father: {fileID: 5295419902812452340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 11.66323, y: 11.2858925, z: 16.97537}
+--- !u!1 &5295419902812547538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452338}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_occhio02_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547538}
+  m_LocalRotation: {x: -0.07492683, y: 0.14411081, z: -0.45597988, w: 0.8750431}
+  m_LocalPosition: {x: -0.018560747, y: 2.7755575e-19, z: -5.5511148e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452350}
+  m_Father: {fileID: 5295419902812452342}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -13.283151, y: 10.371881, z: 3.3142862}
+--- !u!1 &5295419902812547540
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452340}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_occhio01_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547540}
+  m_LocalRotation: {x: 0.8468486, y: -0.025482241, z: 0.530983, w: -0.015977591}
+  m_LocalPosition: {x: 0.0198055, y: 0.0023514023, z: 0.03223729}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452336}
+  m_Father: {fileID: 5295419902812452344}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0.0000046935206, y: 115.82371, z: -176.55289}
+--- !u!1 &5295419902812547542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452342}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_occhio01_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547542}
+  m_LocalRotation: {x: 0.015977617, y: 0.530983, z: 0.02548222, w: 0.84684855}
+  m_LocalPosition: {x: -0.019869499, y: 0.0023514028, z: 0.03223778}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452338}
+  m_Father: {fileID: 5295419902812452344}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: -0.00000037054104, y: 64.17629, z: 3.447093}
+--- !u!1 &5295419902812547544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452344}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_testa_c_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452344
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547544}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.000031999945, y: 0.013489252, z: 0.04311599}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452278}
+  - {fileID: 5295419902812452272}
+  - {fileID: 5295419902812452258}
+  - {fileID: 5295419902812452268}
+  - {fileID: 5295419902812452340}
+  - {fileID: 5295419902812452342}
+  m_Father: {fileID: 5295419902812452234}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.0225215, y: 0, z: 0}
+--- !u!1 &5295419902812547546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452346}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_Z1_zampa01_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547546}
+  m_LocalRotation: {x: 0.59912556, y: -0.26013315, z: -0.29450506, w: 0.69760025}
+  m_LocalPosition: {x: 0.041319147, y: -0.07654856, z: -0.025676668}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452326}
+  m_Father: {fileID: 5295419902812452226}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 37.503296, y: -79.63146, z: -41.870983}
+--- !u!1 &5295419902812547548
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452348}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_occhio03_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452348
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547548}
+  m_LocalRotation: {x: 0, y: 0, z: 0.52356505, w: 0.85198575}
+  m_LocalPosition: {x: 0.02736063, y: 0.00000004414726, z: 0.00000046558856}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452336}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 13.4686165}
+--- !u!1 &5295419902812547550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452350}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_occhio03_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547550}
+  m_LocalRotation: {x: 0, y: 0, z: 0.6232924, w: 0.7819889}
+  m_LocalPosition: {x: -0.027361505, y: 1.512679e-17, z: -9.103829e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452338}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 24.117996}
+--- !u!1 &5295419902812547552
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452224}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio04_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547552}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.1330553, y: 4.7739588e-17, z: -3.5527136e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452228}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452226}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_busto_c_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547554}
+  m_LocalRotation: {x: -0.54991376, y: 0.55125743, z: -0.4442246, w: -0.44314188}
+  m_LocalPosition: {x: -0.00021550179, y: -0.024505498, z: 0.08658999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452242}
+  - {fileID: 5295419902812452252}
+  - {fileID: 5295419902812452234}
+  - {fileID: 5295419902812452346}
+  - {fileID: 5295419902812452324}
+  m_Father: {fileID: 5295419902812452232}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 77.72647, y: -179.99997, z: -89.86015}
+--- !u!1 &5295419902812547556
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452228}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio03_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452228
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547556}
+  m_LocalRotation: {x: 0.22290938, y: -0.06517503, z: -0.08585723, w: 0.9688613}
+  m_LocalPosition: {x: -0.06749925, y: 2.3314683e-17, z: 4.8849813e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452224}
+  m_Father: {fileID: 5295419902812452248}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 20.399775, y: 37.536594, z: 22.888008}
+--- !u!1 &5295419902812547558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452230}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio04_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452230
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547558}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.06911388, y: -5.551115e-19, z: 1.3322676e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452250}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452232}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_COG_c_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547560}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.00021550179, y: 0.024999999, z: 0.0160865}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452226}
+  - {fileID: 5295419902812452236}
+  - {fileID: 5295419902812452330}
+  - {fileID: 5295419902812452308}
+  m_Father: {fileID: 5295419902812452276}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -10.454329, y: -178.97475, z: 174.7984}
+--- !u!1 &5295419902812547562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452234}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_colla_c_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547562}
+  m_LocalRotation: {x: -0.54991376, y: 0.55125743, z: -0.44422463, w: 0.44314188}
+  m_LocalPosition: {x: 0.06410922, y: -0.00015645273, z: -0.04622319}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452344}
+  m_Father: {fileID: 5295419902812452226}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.14023253, y: 87.97871, z: -90.00486}
+--- !u!1 &5295419902812547564
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452236}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_coda01_c_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547564}
+  m_LocalRotation: {x: -0.6175997, y: 0.7336328, z: -0.213594, w: -0.18636279}
+  m_LocalPosition: {x: 0.0002184987, y: 0.013299503, z: -0.087184496}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452238}
+  m_Father: {fileID: 5295419902812452232}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 74.81888, y: -42.611588, z: 50.367508}
+--- !u!1 &5295419902812547566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452238}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_coda02_c_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452238
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547566}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.30746996, y: -2.6668768e-19, z: 4.78867e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452236}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452240}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna04_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547568}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.025985602, y: -1.7976939e-16, z: -8.7579247e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452244}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452242}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio01_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452242
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547570}
+  m_LocalRotation: {x: -0.28395525, y: -0.59971565, z: 0.74017245, w: 0.10888215}
+  m_LocalPosition: {x: 0.1097041, y: -0.055972382, z: -0.024290519}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452254}
+  m_Father: {fileID: 5295419902812452226}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 48.28937, y: -92.518196, z: 132.22417}
+--- !u!1 &5295419902812547572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452244}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna03_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452244
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547572}
+  m_LocalRotation: {x: -0.00038090395, y: 0.18177837, z: 0.17911416, w: 0.96688914}
+  m_LocalPosition: {x: -0.025985569, y: -8.141924e-17, z: -4.2585725e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452240}
+  m_Father: {fileID: 5295419902812452264}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.88970923, y: 4.0971303, z: 38.623657}
+--- !u!1 &5295419902812547574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452246}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_A2_antenna04_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547574}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.02598561, y: -0.0000000048970934, z: 0.000000042981306}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5295419902812452266}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5295419902812547576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452248}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio02_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547576}
+  m_LocalRotation: {x: 0.0134384865, y: 0.24261853, z: -0.27392748, w: 0.9305479}
+  m_LocalPosition: {x: -0.09137519, y: -3.330669e-18, z: -8.881784e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452228}
+  m_Father: {fileID: 5295419902812452252}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 18.782543, y: 27.218054, z: 35.116688}
+--- !u!1 &5295419902812547578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452250}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio03_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547578}
+  m_LocalRotation: {x: -0.016541032, y: 0.08083112, z: -0.18276869, w: 0.97968787}
+  m_LocalPosition: {x: -0.057749547, y: 6.9388935e-19, z: 4.440892e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452230}
+  m_Father: {fileID: 5295419902812452254}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.0788258, y: 8.158889, z: 26.023792}
+--- !u!1 &5295419902812547580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452252}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio01_s_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547580}
+  m_LocalRotation: {x: 0.031883445, y: 0.754389, z: -0.4802833, w: 0.4463281}
+  m_LocalPosition: {x: 0.11094039, y: 0.056830734, z: -0.030036494}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452248}
+  m_Father: {fileID: 5295419902812452226}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 68.88897, y: 58.35723, z: -82.57272}
+--- !u!1 &5295419902812547582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5295419902812452254}
+  m_Layer: 0
+  m_Name: RIGWip12:Paguro_braccio02_d_jnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5295419902812452254
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5295419902812547582}
+  m_LocalRotation: {x: -0.030470274, y: -0.21718317, z: -0.32949597, w: 0.918333}
+  m_LocalPosition: {x: -0.16997802, y: 2.220446e-18, z: 1.7763568e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452250}
+  m_Father: {fileID: 5295419902812452242}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -23.005999, y: -2.4595294, z: 42.55262}
+--- !u!1 &8631946479698095270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8631946479698095273}
+  - component: {fileID: 8631946479698095274}
+  - component: {fileID: 8631946479698095275}
+  - component: {fileID: 8631946479698095268}
+  - component: {fileID: 8631946479698095269}
+  - component: {fileID: 8631946479698095272}
+  - component: {fileID: 2204808190157584590}
+  - component: {fileID: 5637683261225785623}
+  m_Layer: 0
+  m_Name: Crab
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8631946479698095273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.15, y: 0.79, z: 1.59}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5295419902812452276}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8631946479698095274
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &8631946479698095275
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 129d66d52e495394fa8e102cfabbcc0c, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!65 &8631946479698095268
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_Material: {fileID: 13400000, guid: 6793d1359c576d44ba9b4e2c163d9731, type: 2}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.5188732, y: 1.4383979, z: 2.6524363}
+  m_Center: {x: -0.049889803, y: -0.37948084, z: 0.6237893}
+--- !u!54 &8631946479698095269
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0.7
+  m_AngularDrag: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &8631946479698095272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e736c5e44a6e3274999d262412206e86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  harmfulCollisionThreshold: 3
+  hitPoints: 1
+  rotationSpeed: 180
+  translationSpeed: 2
+  speedFactorWhenArmored: 0.7
+  sprintImpulse: 20
+  sprintCoolDownThreshold: 10
+  tiltLimit: 45
+  cwRotationKey: 275
+  ccwRotationKey: 276
+  forwardKey: 273
+  backwardKey: 274
+  sprintKey: 303
+  dropKey: 305
+  horizontalVirtualAxis: Horizontal 1
+  verticalVirtualAxis: Vertical 1
+  sprintVirtualAxis: Sprint 1
+  dropVirtualAxis: Drop 1
+--- !u!114 &2204808190157584590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3831688c8b9a044b7d2ab9be5ba9ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsPerHit: 1
+--- !u!114 &5637683261225785623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8631946479698095270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 661f31c9bf5c3ca4e93b49dfdb8a3694, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hearts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  shells:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

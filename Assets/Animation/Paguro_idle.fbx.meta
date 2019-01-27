@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: bc81859f921b47848871475288638444
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RIGWip12:Paguro_A1_antenna01_d_jnt
+    100004: RIGWip12:Paguro_A1_antenna01_s_jnt
+    100006: RIGWip12:Paguro_A1_antenna02_d_jnt
+    100008: RIGWip12:Paguro_A1_antenna02_s_jnt
+    100010: RIGWip12:Paguro_A1_antenna03_d_jnt
+    100012: RIGWip12:Paguro_A1_antenna03_s_jnt
+    100014: RIGWip12:Paguro_A1_antenna04_d_jnt
+    100016: RIGWip12:Paguro_A1_antenna04_s_jnt
+    100018: RIGWip12:Paguro_A1_antenna05_d_jnt
+    100020: RIGWip12:Paguro_A1_antenna05_s_jnt
+    100022: RIGWip12:Paguro_A2_antenna01_d_jnt
+    100024: RIGWip12:Paguro_A2_antenna01_s_jnt
+    100026: RIGWip12:Paguro_A2_antenna02_d_jnt
+    100028: RIGWip12:Paguro_A2_antenna02_s_jnt
+    100030: RIGWip12:Paguro_A2_antenna03_d_jnt
+    100032: RIGWip12:Paguro_A2_antenna03_s_jnt
+    100034: RIGWip12:Paguro_A2_antenna04_d_jnt
+    100036: RIGWip12:Paguro_A2_antenna04_s_jnt
+    100038: RIGWip12:Paguro_braccio01_d_jnt
+    100040: RIGWip12:Paguro_braccio01_s_jnt
+    100042: RIGWip12:Paguro_braccio02_d_jnt
+    100044: RIGWip12:Paguro_braccio02_s_jnt
+    100046: RIGWip12:Paguro_braccio03_d_jnt
+    100048: RIGWip12:Paguro_braccio03_s_jnt
+    100050: RIGWip12:Paguro_braccio04_d_jnt
+    100052: RIGWip12:Paguro_braccio04_s_jnt
+    100054: RIGWip12:Paguro_busto_c_jnt
+    100056: RIGWip12:Paguro_coda01_c_jnt
+    100058: RIGWip12:Paguro_coda02_c_jnt
+    100060: RIGWip12:Paguro_COG_c_jnt
+    100062: RIGWip12:Paguro_colla_c_jnt
+    100064: RIGWip12:Paguro_occhio01_d_jnt
+    100066: RIGWip12:Paguro_occhio01_s_jnt
+    100068: RIGWip12:Paguro_occhio02_d_jnt
+    100070: RIGWip12:Paguro_occhio02_s_jnt
+    100072: RIGWip12:Paguro_occhio03_d_jnt
+    100074: RIGWip12:Paguro_occhio03_s_jnt
+    100076: RIGWip12:Paguro_testa_c_jnt
+    100078: RIGWip12:Paguro_Z1_zampa01_d_jnt
+    100080: RIGWip12:Paguro_Z1_zampa01_s_jnt
+    100082: RIGWip12:Paguro_Z1_zampa02_d_jnt
+    100084: RIGWip12:Paguro_Z1_zampa02_s_jnt
+    100086: RIGWip12:Paguro_Z1_zampa03_d_jnt
+    100088: RIGWip12:Paguro_Z1_zampa03_s_jnt
+    100090: RIGWip12:Paguro_Z1_zampa04_d_jnt
+    100092: RIGWip12:Paguro_Z1_zampa04_s_jnt
+    100094: RIGWip12:Paguro_Z2_zampa01_d_jnt
+    100096: RIGWip12:Paguro_Z2_zampa01_s_jnt
+    100098: RIGWip12:Paguro_Z2_zampa02_d_jnt
+    100100: RIGWip12:Paguro_Z2_zampa02_s_jnt
+    100102: RIGWip12:Paguro_Z2_zampa03_d_jnt
+    100104: RIGWip12:Paguro_Z2_zampa03_s_jnt
+    100106: RIGWip12:Paguro_Z2_zampa04_d_jnt
+    100108: RIGWip12:Paguro_Z2_zampa04_s_jnt
+    100110: RIGWip12:polySurface4
+    400000: //RootNode
+    400002: RIGWip12:Paguro_A1_antenna01_d_jnt
+    400004: RIGWip12:Paguro_A1_antenna01_s_jnt
+    400006: RIGWip12:Paguro_A1_antenna02_d_jnt
+    400008: RIGWip12:Paguro_A1_antenna02_s_jnt
+    400010: RIGWip12:Paguro_A1_antenna03_d_jnt
+    400012: RIGWip12:Paguro_A1_antenna03_s_jnt
+    400014: RIGWip12:Paguro_A1_antenna04_d_jnt
+    400016: RIGWip12:Paguro_A1_antenna04_s_jnt
+    400018: RIGWip12:Paguro_A1_antenna05_d_jnt
+    400020: RIGWip12:Paguro_A1_antenna05_s_jnt
+    400022: RIGWip12:Paguro_A2_antenna01_d_jnt
+    400024: RIGWip12:Paguro_A2_antenna01_s_jnt
+    400026: RIGWip12:Paguro_A2_antenna02_d_jnt
+    400028: RIGWip12:Paguro_A2_antenna02_s_jnt
+    400030: RIGWip12:Paguro_A2_antenna03_d_jnt
+    400032: RIGWip12:Paguro_A2_antenna03_s_jnt
+    400034: RIGWip12:Paguro_A2_antenna04_d_jnt
+    400036: RIGWip12:Paguro_A2_antenna04_s_jnt
+    400038: RIGWip12:Paguro_braccio01_d_jnt
+    400040: RIGWip12:Paguro_braccio01_s_jnt
+    400042: RIGWip12:Paguro_braccio02_d_jnt
+    400044: RIGWip12:Paguro_braccio02_s_jnt
+    400046: RIGWip12:Paguro_braccio03_d_jnt
+    400048: RIGWip12:Paguro_braccio03_s_jnt
+    400050: RIGWip12:Paguro_braccio04_d_jnt
+    400052: RIGWip12:Paguro_braccio04_s_jnt
+    400054: RIGWip12:Paguro_busto_c_jnt
+    400056: RIGWip12:Paguro_coda01_c_jnt
+    400058: RIGWip12:Paguro_coda02_c_jnt
+    400060: RIGWip12:Paguro_COG_c_jnt
+    400062: RIGWip12:Paguro_colla_c_jnt
+    400064: RIGWip12:Paguro_occhio01_d_jnt
+    400066: RIGWip12:Paguro_occhio01_s_jnt
+    400068: RIGWip12:Paguro_occhio02_d_jnt
+    400070: RIGWip12:Paguro_occhio02_s_jnt
+    400072: RIGWip12:Paguro_occhio03_d_jnt
+    400074: RIGWip12:Paguro_occhio03_s_jnt
+    400076: RIGWip12:Paguro_testa_c_jnt
+    400078: RIGWip12:Paguro_Z1_zampa01_d_jnt
+    400080: RIGWip12:Paguro_Z1_zampa01_s_jnt
+    400082: RIGWip12:Paguro_Z1_zampa02_d_jnt
+    400084: RIGWip12:Paguro_Z1_zampa02_s_jnt
+    400086: RIGWip12:Paguro_Z1_zampa03_d_jnt
+    400088: RIGWip12:Paguro_Z1_zampa03_s_jnt
+    400090: RIGWip12:Paguro_Z1_zampa04_d_jnt
+    400092: RIGWip12:Paguro_Z1_zampa04_s_jnt
+    400094: RIGWip12:Paguro_Z2_zampa01_d_jnt
+    400096: RIGWip12:Paguro_Z2_zampa01_s_jnt
+    400098: RIGWip12:Paguro_Z2_zampa02_d_jnt
+    400100: RIGWip12:Paguro_Z2_zampa02_s_jnt
+    400102: RIGWip12:Paguro_Z2_zampa03_d_jnt
+    400104: RIGWip12:Paguro_Z2_zampa03_s_jnt
+    400106: RIGWip12:Paguro_Z2_zampa04_d_jnt
+    400108: RIGWip12:Paguro_Z2_zampa04_s_jnt
+    400110: RIGWip12:polySurface4
+    2100000: lambert1
+    4300000: RIGWip12:polySurface4
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: RIGWip12:polySurface4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
